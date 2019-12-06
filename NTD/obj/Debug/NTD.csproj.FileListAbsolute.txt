@@ -1,0 +1,1604 @@
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\NTD.exe.config
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\NTD.exe
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\NTD.pdb
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.Data.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.Data.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.Form1.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.Properties.Resources.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.csproj.GenerateResource.cache
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.exe.licenses
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.csproj.CopyComplete
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.exe
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.pdb
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.Images.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmPhanQuyen.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmNhatKy.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.USChucNang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmKhuVuc.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmKhachHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmKhoHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmNhaCungCap.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmBoPhan.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmDonViTinh.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmNhomHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmTyGia.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmHangHoa.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmMuaHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmBanHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmTonKho.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmChuyenKho.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmThuTien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmTraTien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmNVien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmDangNhap.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.GUI.frmThemNguoiDung.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\LT\DA\NTD\NTD\obj\Debug\NTD.csprojAssemblyReference.cache
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.csprojAssemblyReference.cache
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmBanHang.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmBoPhan.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmChuyenKho.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmDangNhap.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmDonViTinh.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmKhachHang.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmKhoHang.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmKhuVuc.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.Form1.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmMuaHang.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmNhaCungCap.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmNhomHang.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmNVien.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmPhanQuyen.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmNhatKy.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmThemNguoiDung.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmThuTien.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmTonKho.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmTraTien.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmTyGia.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.frmHangHoa.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.GUI.USChucNang.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.Properties.Resources.resources
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.csproj.GenerateResource.cache
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.exe.licenses
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.csproj.CoreCompileInputs.cache
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.exe
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.pdb
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\NTD.exe.config
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\NTD.exe
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\NTD.pdb
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.Office.v19.1.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.Images.v19.1.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.Data.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.Xpo.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.XtraBars.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\DevExpress.Office.v19.1.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\Do An_1\NTD\NTD\obj\Debug\NTD.csproj.CopyComplete
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\NTD.exe.config
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\NTD.exe
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\NTD.pdb
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Data.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Images.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Data.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.csprojAssemblyReference.cache
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmBanHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmBoPhan.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmChuyenKho.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmDangNhap.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmDonViTinh.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmKhachHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmKhoHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmKhuVuc.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.Form1.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmMuaHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmNhaCungCap.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmNhomHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmNVien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmPhanQuyen.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmNhatKy.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmThemNguoiDung.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmThuTien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmTonKho.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmTraTien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmTyGia.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmHangHoa.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmThemVaiTro.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.USChucNang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.Properties.Resources.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.csproj.GenerateResource.cache
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.exe.licenses
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.csproj.CopyComplete
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.exe
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Git\Do_An_UDQL\NTD\obj\Debug\NTD.pdb
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.csprojAssemblyReference.cache
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmBanHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmBoPhan.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmChuyenKho.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmDangNhap.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmDonViTinh.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmKhachHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmKhoHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmKhuVuc.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.Form1.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmMuaHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmNhaCungCap.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmNhomHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmNVien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmPhanQuyen.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmNhatKy.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmThemNguoiDung.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmThuTien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmTonKho.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmTraTien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmTyGia.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmHangHoa.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.USChucNang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.Properties.Resources.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.csproj.GenerateResource.cache
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.exe.licenses
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.exe
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.pdb
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\NTD.exe.config
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\NTD.exe
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\NTD.pdb
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.Data.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.Images.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.Data.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\Test\Do_An_UDQL\NTD\obj\Debug\NTD.csproj.CopyComplete
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\NTD.exe.config
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\NTD.exe
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\NTD.pdb
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Office.v19.1.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Images.v19.1.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Data.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Xpo.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraBars.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Office.v19.1.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.csprojAssemblyReference.cache
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmBanHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmBoPhan.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmChuyenKho.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmDangNhap.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmDonViTinh.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmKhachHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmKhoHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmKhuVuc.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.Form1.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmMuaHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmNhaCungCap.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmNhomHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmNVien.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmPhanQuyen.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmNhatKy.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmThemNguoiDung.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmThuTien.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmTonKho.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmTraTien.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmTyGia.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmHangHoa.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.USChucNang.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.Properties.Resources.resources
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.csproj.GenerateResource.cache
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.exe.licenses
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.csproj.CoreCompileInputs.cache
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.csproj.CopyComplete
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.exe
+E:\Nam 3\Lap trinh UDQL 1\git\Do_An_UDQL\NTD\obj\Debug\NTD.pdb
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\NTD.exe.config
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\NTD.exe
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\NTD.pdb
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Dashboard.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Dashboard.v19.1.Win.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Data.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.DataAccess.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Map.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.TreeMap.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraGauges.v19.1.Presets.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraGauges.v19.1.Win.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraMap.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraReports.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraTreeMap.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.CodeParser.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Images.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Dashboard.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Dashboard.v19.1.Win.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Data.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Map.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.TreeMap.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraGauges.v19.1.Presets.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraGauges.v19.1.Win.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraMap.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraTreeMap.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Dashboard.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Dashboard.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Dashboard.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Dashboard.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Dashboard.v19.1.Win.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Dashboard.v19.1.Win.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Dashboard.v19.1.Win.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Dashboard.v19.1.Win.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Map.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Map.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Map.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Map.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.csprojAssemblyReference.cache
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmBanHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmBoPhan.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmChuyenKho.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmDangNhap.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmDonViTinh.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmKhachHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmKhoHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmKhuVuc.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.Form1.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmMuaHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmNhaCungCap.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmNhomHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmNVien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmPhanQuyen.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmNhatKy.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmThemHangHoa.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmThemKhachHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmThemKhuVuc.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmThemNCC.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmThemNguoiDung.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmThemNhanVien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmThemNhomHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmThuTien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmTonKho.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmTraTien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmTyGia.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.frmHangHoa.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.GUI.USChucNang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.Properties.Resources.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.csproj.GenerateResource.cache
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.exe.licenses
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.csproj.CopyComplete
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.exe
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\DA_Git\Do_An_UDQL\NTD\obj\Debug\NTD.pdb
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\NTD.exe.config
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\NTD.exe
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\NTD.pdb
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Dashboard.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Dashboard.v19.1.Win.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Data.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.DataAccess.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Map.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.TreeMap.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraGauges.v19.1.Presets.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraGauges.v19.1.Win.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraMap.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraReports.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraTreeMap.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.CodeParser.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Images.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Dashboard.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Dashboard.v19.1.Win.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Data.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Map.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.TreeMap.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraGauges.v19.1.Presets.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraGauges.v19.1.Win.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraMap.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraTreeMap.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.Dashboard.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.Dashboard.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.Dashboard.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.Dashboard.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.Dashboard.v19.1.Win.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.Dashboard.v19.1.Win.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.Dashboard.v19.1.Win.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.Dashboard.v19.1.Win.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.Map.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.Map.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.Map.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.Map.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.csprojAssemblyReference.cache
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmBanHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmBoPhan.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmChuyenKho.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmDangNhap.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmDonViTinh.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmKhachHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmKhoHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmKhuVuc.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.Form1.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmMuaHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmNhaCungCap.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmNhomHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmNVien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmPhanQuyen.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmNhatKy.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmThemHangHoa.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmThemKhachHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmThemKhuVuc.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmThemNCC.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmThemNguoiDung.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmThemNhanVien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmThemNhomHang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmThuTien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmTonKho.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmTraTien.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmTyGia.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.frmHangHoa.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.GUI.USChucNang.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.Properties.Resources.resources
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.csproj.GenerateResource.cache
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.exe.licenses
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.csproj.CopyComplete
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.exe
+D:\HocTap\Năm 3\Lập trình ứng dụng quản lý 1\git_D_A\NTD_DoAN\NTD\obj\Debug\NTD.pdb
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\NTD.exe.config
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\NTD.exe
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\NTD.pdb
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.CodeParser.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Dashboard.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Dashboard.v19.2.Win.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.DataAccess.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Map.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.TreeMap.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Xpo.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraGauges.v19.2.Win.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraMap.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraReports.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraTreeMap.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Images.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Dashboard.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Dashboard.v19.2.Win.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.DataAccess.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Map.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.TreeMap.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Xpo.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraGauges.v19.2.Win.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraMap.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraReports.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraTreeMap.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.Dashboard.v19.2.Win.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.Dashboard.v19.2.Win.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.Dashboard.v19.2.Win.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.Dashboard.v19.2.Win.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.Map.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.Map.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.Map.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.Map.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.csprojAssemblyReference.cache
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmBanHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmChuyenKho.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmChucNang.frmTraTien.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmDangNhap.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmDoiMK.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmDonViTinh.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmKhachHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmKhoHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmKhuVuc.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.Form1.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmMuaHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmNhaCungCap.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmNhomHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmNVien.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmPhanQuyen.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmNhatKy.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmThemDonViTinh.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmThemHangHoa.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmThemKhachHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmThemKhoHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmThemKhuVuc.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmThemNCC.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmThemNguoiDung.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmThemNhanVien.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmThemNhomHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmTonKho.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmTyGia.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmHangHoa.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.frmThuTien.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.PhieuBanHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.UC.PhieuNhapHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.USChucNang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.UC.UcBanHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.UC.UcChucNangBan.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.UC.UcChuyenKho.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.UC.UcTheoChungTu.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.UC.UcTheoHangHoa.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.UC.Uc_ThuTien_DSPCN.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.UC.Uc_ThuTien_DSPT.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.UC.Uc_ThuTien_DSPTN.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.UC.Uc_TraTien_DSPC.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.UC.Uc_TraTien_DSPCN.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.GUI.UC.Uc_TraTien_DSPTN.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.Properties.Resources.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.csproj.GenerateResource.cache
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.exe.licenses
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.csproj.CoreCompileInputs.cache
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.csproj.CopyComplete
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.exe
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn\NTD\NTD\obj\Debug\NTD.pdb
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\NTD.exe.config
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\NTD.exe
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\NTD.pdb
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.CodeParser.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Dashboard.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Dashboard.v19.2.Win.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.DataAccess.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Map.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.TreeMap.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Xpo.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraGauges.v19.2.Win.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraMap.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraReports.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraTreeMap.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Images.v19.2.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Dashboard.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Dashboard.v19.2.Win.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.DataAccess.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Map.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.TreeMap.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Xpo.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraGauges.v19.2.Win.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraMap.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraReports.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraTreeMap.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.Dashboard.v19.2.Win.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.Dashboard.v19.2.Win.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.Dashboard.v19.2.Win.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.Dashboard.v19.2.Win.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.Map.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.Map.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.Map.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.Map.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.csprojAssemblyReference.cache
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmBanHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmChuyenKho.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmChucNang.frmTraTien.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmDangNhap.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmDoiMK.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmDonViTinh.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmKhachHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmKhoHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmKhuVuc.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.Form1.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmMuaHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmNhaCungCap.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmNhomHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmNVien.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmPhanQuyen.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmNhatKy.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmThemDonViTinh.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmThemHangHoa.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmThemKhachHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmThemKhoHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmThemKhuVuc.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmThemNCC.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmThemNguoiDung.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmThemNhanVien.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmThemNhomHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmTonKho.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmTyGia.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmHangHoa.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.frmThuTien.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.PhieuBanHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.UC.PhieuNhapHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.USChucNang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.UC.UcBanHang.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.UC.UcChucNangBan.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.UC.UcChuyenKho.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.UC.UcTheoChungTu.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.UC.UcTheoHangHoa.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.UC.Uc_ThuTien_DSPCN.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.UC.Uc_ThuTien_DSPT.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.UC.Uc_ThuTien_DSPTN.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.UC.Uc_TraTien_DSPC.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.UC.Uc_TraTien_DSPCN.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.GUI.UC.Uc_TraTien_DSPTN.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.Properties.Resources.resources
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.csproj.GenerateResource.cache
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.exe.licenses
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.csproj.CoreCompileInputs.cache
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.csproj.CopyComplete
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.exe
+E:\Nam 3\Lap trinh UDQL 1\git2\BackUp_DoAn1.1\NTD\NTD\obj\Debug\NTD.pdb
