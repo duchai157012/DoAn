@@ -41,7 +41,8 @@ namespace NTD.GUI
             cbDonVi.Text = hh.DonVi;
             txtSoLuong.Text = hh.Soluong.ToString();
             txtGiaMua.Text = hh.GiaMua.ToString();
-            txtGiaBan.Text = hh.GiaBan.ToString();
+            txtGiaLe.Text = hh.GiaBanLe.ToString();
+            txtGiaSi.Text = hh.GiaBanSi.ToString();
             txtCode.Text = hh.Code;
             cbNhaCC.Text = hh.NhaCungCap;
             cbLoai.Text = hh.MaLoai;
@@ -68,7 +69,8 @@ namespace NTD.GUI
                     HinhAnh = txtHinhAnh.Text,
                     DonVi = cbDonVi.EditValue.ToString(),
                     Soluong = int.Parse(txtSoLuong.Text),
-                    GiaBan = float.Parse(txtGiaMua.Text),
+                    GiaBanLe = float.Parse(txtGiaLe.Text),
+                    GiaBanSi = float.Parse(txtGiaSi.Text),
                     GiaMua = float.Parse(txtGiaMua.Text),
                     Code = txtCode.Text,
                     NhaCungCap = cbNhaCC.EditValue.ToString(),
@@ -90,12 +92,13 @@ namespace NTD.GUI
                     HinhAnh = txtHinhAnh.Text,
                     DonVi = cbDonVi.EditValue.ToString(),
                     Soluong = int.Parse(txtSoLuong.Text),
+                    GiaBanLe = float.Parse(txtGiaLe.Text),
+                    GiaBanSi = float.Parse(txtGiaSi.Text),
                     GiaMua = float.Parse(txtGiaMua.Text),
-                    GiaBan = float.Parse(txtGiaBan.Text),
                     Code = txtCode.Text,
                     NhaCungCap = cbNhaCC.EditValue.ToString(),
                     MaLoai = cbLoai.EditValue.ToString(),
-                    MaKho=cbKho.EditValue.ToString()
+                    MaKho = cbKho.EditValue.ToString()
                 };
                 if (bus_hh.Update(hh) > 0)
                 {

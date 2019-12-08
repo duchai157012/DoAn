@@ -34,8 +34,8 @@ namespace NTD.GUI
         {
             userName = GlobalVar.userName;
             passwordCu = txtMKCu.Text;
-            passwordMoi = txtMKMoi.Text;
-            passwordNhapLai = txtNhapLai.Text;
+            passwordMoi = textBox1.Text;
+            passwordNhapLai = textBox2.Text;            
         }
 
         private void btnLuu_Click(object sender, EventArgs e)

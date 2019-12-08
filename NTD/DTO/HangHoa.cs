@@ -15,7 +15,8 @@ namespace NTD.DTO
         public string DonVi { get; set; }
         public int Soluong { get; set; }
         public float GiaMua { get; set; }
-        public float GiaBan { get; set; }
+        public float GiaBanLe { get; set; }
+        public float GiaBanSi { get; set; }
         public string Code { get; set; }
         public string NhaCungCap { get; set; }
         public string MaLoai { get; set; }

@@ -40,24 +40,24 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.cbnhanvien = new DevExpress.XtraEditors.LookUpEdit();
+            this.cbVaiTro = new DevExpress.XtraEditors.LookUpEdit();
             this.Root = new DevExpress.XtraLayout.LayoutControlGroup();
             this.layoutControlItem1 = new DevExpress.XtraLayout.LayoutControlItem();
             this.emptySpaceItem1 = new DevExpress.XtraLayout.EmptySpaceItem();
             this.layoutControlItem2 = new DevExpress.XtraLayout.LayoutControlItem();
             this.layoutControlItem3 = new DevExpress.XtraLayout.LayoutControlItem();
-            this.cbnhanvien = new DevExpress.XtraEditors.LookUpEdit();
-            this.cbVaiTro = new DevExpress.XtraEditors.LookUpEdit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControl1)).BeginInit();
             this.layoutControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
             this.groupControl1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.cbnhanvien.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.cbVaiTro.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Root)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.emptySpaceItem1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.cbnhanvien.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.cbVaiTro.Properties)).BeginInit();
             this.SuspendLayout();
             // 
             // layoutControl1
@@ -179,6 +179,30 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Nhân Viên";
             // 
+            // cbnhanvien
+            // 
+            this.cbnhanvien.Location = new System.Drawing.Point(115, 50);
+            this.cbnhanvien.Name = "cbnhanvien";
+            this.cbnhanvien.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.cbnhanvien.Properties.NullText = "";
+            this.cbnhanvien.Properties.PopupSizeable = false;
+            this.cbnhanvien.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard;
+            this.cbnhanvien.Size = new System.Drawing.Size(263, 20);
+            this.cbnhanvien.TabIndex = 13;
+            // 
+            // cbVaiTro
+            // 
+            this.cbVaiTro.Location = new System.Drawing.Point(115, 213);
+            this.cbVaiTro.Name = "cbVaiTro";
+            this.cbVaiTro.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.cbVaiTro.Properties.NullText = "";
+            this.cbVaiTro.Properties.PopupSizeable = false;
+            this.cbVaiTro.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard;
+            this.cbVaiTro.Size = new System.Drawing.Size(263, 20);
+            this.cbVaiTro.TabIndex = 14;
+            // 
             // Root
             // 
             this.Root.EnableIndentsWithoutBorders = DevExpress.Utils.DefaultBoolean.True;
@@ -227,30 +251,6 @@
             this.layoutControlItem3.TextSize = new System.Drawing.Size(0, 0);
             this.layoutControlItem3.TextVisible = false;
             // 
-            // cbnhanvien
-            // 
-            this.cbnhanvien.Location = new System.Drawing.Point(115, 50);
-            this.cbnhanvien.Name = "cbnhanvien";
-            this.cbnhanvien.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.cbnhanvien.Properties.NullText = "";
-            this.cbnhanvien.Properties.PopupSizeable = false;
-            this.cbnhanvien.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard;
-            this.cbnhanvien.Size = new System.Drawing.Size(263, 20);
-            this.cbnhanvien.TabIndex = 13;
-            // 
-            // cbVaiTro
-            // 
-            this.cbVaiTro.Location = new System.Drawing.Point(115, 213);
-            this.cbVaiTro.Name = "cbVaiTro";
-            this.cbVaiTro.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.cbVaiTro.Properties.NullText = "";
-            this.cbVaiTro.Properties.PopupSizeable = false;
-            this.cbVaiTro.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard;
-            this.cbVaiTro.Size = new System.Drawing.Size(263, 20);
-            this.cbVaiTro.TabIndex = 14;
-            // 
             // frmThemNguoiDung
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -261,20 +261,20 @@
             this.Name = "frmThemNguoiDung";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Thêm Người Dùng";
-            this.TransparencyKey = System.Drawing.SystemColors.Control;
+            this.TransparencyKey = System.Drawing.SystemColors.ActiveCaptionText;
             this.Load += new System.EventHandler(this.frmThemNguoiDung_Load);
             ((System.ComponentModel.ISupportInitialize)(this.layoutControl1)).EndInit();
             this.layoutControl1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
             this.groupControl1.ResumeLayout(false);
             this.groupControl1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.cbnhanvien.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.cbVaiTro.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Root)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.emptySpaceItem1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.cbnhanvien.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.cbVaiTro.Properties)).EndInit();
             this.ResumeLayout(false);
 
         }

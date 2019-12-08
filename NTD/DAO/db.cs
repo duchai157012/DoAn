@@ -11,7 +11,7 @@ namespace NTD.DAO
 {
     public class db
     {
-        public  string connStr = @"Data Source=DUCHAI\SQLEXPRESS;Initial Catalog=QUANLIBANHANG;Integrated Security=True";
+        public  string connStr = @"Data Source=DESKTOP-UER81O0;Initial Catalog=QUANLIBANHANG;Integrated Security=True";
 
         public DataTable GetData(string sql)
         {

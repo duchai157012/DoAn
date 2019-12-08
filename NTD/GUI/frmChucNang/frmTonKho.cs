@@ -23,7 +23,14 @@ namespace NTD.GUI
         private void LoadData(string ma)
         { 
 
-            var dataTable = bus_tk.GetAllData(ma);
+            var dataTable = bus_tk.GetDataMa(ma);
+
+            gcTonKho.DataSource = dataTable;
+        }
+        private void LoadAllData()
+        {
+
+            var dataTable = bus_tk.GetAllData();
 
             gcTonKho.DataSource = dataTable;
         }
@@ -35,7 +42,9 @@ namespace NTD.GUI
             cbKhoHang.Properties.DisplayMember = "Kho Hàng";
             cbKhoHang.Properties.ValueMember = "Mã Kho";
 
+            cbKhoHang.Text = "Tất Cả";
 
+            LoadAllData();
         }
 
         private void cbKhoHang_EditValueChanged(object sender, EventArgs e)

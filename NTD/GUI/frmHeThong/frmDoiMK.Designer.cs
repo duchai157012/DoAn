@@ -33,13 +33,11 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.txtMKCu = new DevExpress.XtraEditors.TextEdit();
-            this.txtMKMoi = new DevExpress.XtraEditors.TextEdit();
-            this.txtNhapLai = new DevExpress.XtraEditors.TextEdit();
             this.btnLuu = new System.Windows.Forms.Button();
             this.btndong = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.txtMKCu.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtMKMoi.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtNhapLai.Properties)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -86,20 +84,6 @@
             this.txtMKCu.Size = new System.Drawing.Size(236, 20);
             this.txtMKCu.TabIndex = 4;
             // 
-            // txtMKMoi
-            // 
-            this.txtMKMoi.Location = new System.Drawing.Point(133, 113);
-            this.txtMKMoi.Name = "txtMKMoi";
-            this.txtMKMoi.Size = new System.Drawing.Size(236, 20);
-            this.txtMKMoi.TabIndex = 5;
-            // 
-            // txtNhapLai
-            // 
-            this.txtNhapLai.Location = new System.Drawing.Point(133, 145);
-            this.txtNhapLai.Name = "txtNhapLai";
-            this.txtNhapLai.Size = new System.Drawing.Size(236, 20);
-            this.txtNhapLai.TabIndex = 6;
-            // 
             // btnLuu
             // 
             this.btnLuu.Location = new System.Drawing.Point(160, 210);
@@ -120,15 +104,29 @@
             this.btndong.UseVisualStyleBackColor = true;
             this.btndong.Click += new System.EventHandler(this.btndong_Click);
             // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(133, 116);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(236, 21);
+            this.textBox1.TabIndex = 9;
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(133, 148);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(236, 21);
+            this.textBox2.TabIndex = 10;
+            // 
             // frmDoiMK
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(428, 268);
+            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.btndong);
             this.Controls.Add(this.btnLuu);
-            this.Controls.Add(this.txtNhapLai);
-            this.Controls.Add(this.txtMKMoi);
             this.Controls.Add(this.txtMKCu);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -140,8 +138,6 @@
             this.Text = "Thay Đổi Mật Khẩu";
             this.Load += new System.EventHandler(this.frmDoiMK_Load);
             ((System.ComponentModel.ISupportInitialize)(this.txtMKCu.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtMKMoi.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtNhapLai.Properties)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -154,9 +150,9 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private DevExpress.XtraEditors.TextEdit txtMKCu;
-        private DevExpress.XtraEditors.TextEdit txtMKMoi;
-        private DevExpress.XtraEditors.TextEdit txtNhapLai;
         private System.Windows.Forms.Button btnLuu;
         private System.Windows.Forms.Button btndong;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox2;
     }
 }

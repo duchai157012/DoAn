@@ -213,5 +213,29 @@ namespace NTD
             frmDoiMK mk = new frmDoiMK();
             mk.ShowDialog();
         }
+
+        private void btnBaoCaoKH_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frmBaoCaoKhoHang bc = new frmBaoCaoKhoHang();
+            if (ExistsForm(bc)) return;
+            bc.MdiParent = this;
+            bc.Show();
+        }
+
+        private void btnBaoCaoBH_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frmBaoCaoBanHang bc = new frmBaoCaoBanHang();
+            if (ExistsForm(bc)) return;
+            bc.MdiParent = this;
+            bc.Show();
+        }
+
+        private void btnChungTu_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frmChungTu bc = new frmChungTu();
+            if (ExistsForm(bc)) return;
+            bc.MdiParent = this;
+            bc.Show();
+        }
     }
 }

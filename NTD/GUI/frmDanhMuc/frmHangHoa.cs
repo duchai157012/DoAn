@@ -67,18 +67,19 @@ namespace NTD.GUI
         {
             HangHoa hh = new HangHoa()
             {
-                Ma = gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "Mã Hàng").ToString(),
-                Ten = gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "Tên Hàng").ToString(),
-                MoTa = gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "Mô Tả").ToString(),
-                HinhAnh = gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "Hình Ảnh").ToString(),
-                DonVi = gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "Đơn Vị").ToString(),
-                Soluong = int.Parse( gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "Số Lượng").ToString()),
-                GiaMua = float.Parse( gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "Giá Mua").ToString()),
-                GiaBan = float.Parse(gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "Giá Bán").ToString()),
+                Ma = gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "MaSP").ToString(),
+                Ten = gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "TenSP").ToString(),
+                MoTa = gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "MoTa").ToString(),
+                HinhAnh = gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "HinhAnh").ToString(),
+                DonVi = gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "DonVi").ToString(),
+                Soluong = int.Parse(gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "SoLuong").ToString()),
+                GiaMua = float.Parse(gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "GiaMua").ToString()),
+                GiaBanLe = float.Parse(gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "GiaBanLe").ToString()),
+                GiaBanSi = float.Parse(gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "GiaBanSi").ToString()),
                 Code = gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "Code").ToString(),
-                NhaCungCap = gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "Nhà Cung Cấp").ToString(),
-                MaLoai= gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "Mã Loại").ToString(),
-                MaKho = gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "Mã kho").ToString()
+                NhaCungCap = gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "NhaCungCap").ToString(),
+                MaLoai = gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "MaLoai").ToString(),
+                MaKho = gc_rootHangHoa.GetRowCellValue(gc_rootHangHoa.FocusedRowHandle, "MaKho").ToString()
             };
 
             frmThemHangHoa thh = new frmThemHangHoa(hh);
@@ -107,6 +108,11 @@ namespace NTD.GUI
             frmThemHangHoa thh = new frmThemHangHoa();
             thh.ShowDialog();
             LoadData();
+        }
+
+        private void comboBoxEdit1_EditValueChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

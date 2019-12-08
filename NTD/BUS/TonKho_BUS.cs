@@ -11,9 +11,13 @@ namespace NTD.BUS
     public class TonKho_BUS
     {
         DAO_TonKho tk = new DAO_TonKho();
-        public DataTable GetAllData(string ma)
+        public DataTable GetDataMa(string ma)
         {
-            return tk.GetAllData(ma);
+            return tk.GetDataMa(ma);
+        }
+        public DataTable GetAllData()
+        {
+            return tk.GetAllData();
         }
         public DataTable GetAllDataKH()
         {
